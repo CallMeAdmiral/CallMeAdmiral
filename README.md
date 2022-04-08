@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @CallMeAdmiral
 - 👀 I’m interested in becoming a Software Developer.
-- 🌱 I’m currently improving my skills with Python and SQL.
+- 🌱 I’m currently improving my skills with Python, C and SQL.
